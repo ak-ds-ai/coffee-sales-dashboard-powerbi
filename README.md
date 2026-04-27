@@ -45,8 +45,8 @@ This project showcases an interactive Coffee Sales Dashboard built using Power B
 ## 📎 Files
 
 * `coffee_sales_performance_dashboard_2019_2022.pbix` → Power BI dashboard
-* `.xlsx` → Source dataset
-* `.png` → Dashboard preview
+* `Coffee_Sales_data.xlsx` → Source dataset
+* `Dashboard_preview.png` → Dashboard preview
 
 ---
 
